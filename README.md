@@ -6,12 +6,14 @@ This is a little AppleScript application that downloads MP4's of YouTube videos 
 
 1. Use [Homebrew][1] to install `youtube-dl` (like so: `brew install youtube-dl`).
 2. Copy `yt.sh` to /usr/local/bin. (Or wherever you'd like that's in your path.)
-3. Edit the hard-coded video download path to point at where you want these videos to go. (I pointed mine at **/Users/kevin/Downloads**.)[^hack]
+3. Edit the hard-coded video download path to point at where you want these videos to go. (I pointed mine at **/Users/kevin/Downloads**.)
 4. Make sure you `chmod +X yt.sh`.
 5. That's all! Run `burninator.scpt` and you're good to go.
 5. Use **AppleScript Editor** on your Mac to save `burninator.scpt` as an Application, if you want.
 
-[^hack]: Yes, this is a hack. No, I don't plan on fixing it, because having the video files show up in ~/Downloads seems to me like the correct behavior. Feel free to fix it, though, if you want.
+### Notes ###
+
+Yes, hardcoding the download path is a hack. No, I don't plan on fixing it, because having the video files show up in ~/Downloads seems to me like the correct behavior. Feel free to fix it, though, if you want.
 
 ## Credits ##
 
