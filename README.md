@@ -17,7 +17,7 @@ Yes, hardcoding the download path is a hack. No, I don't plan on fixing it, beca
 
 ## Credits ##
 
-[TJ Luoma][2] came up with the guts of `yt.sh`. The whole thing wouldn't work without [youtube-dl][3]. [Stephen Hackett][4] gave me a cool "[Trogdor the Burninator][5]" icon to use for the app, but I'm not including it here for copyright reasons.
+[TJ Luoma][2] came up with the guts of `yt.sh`. The whole thing wouldn't work without [youtube-dl][3]. And you should download a [Trogdor](http://www.homestarrunner.com/trogdor.html) png for the AppleScript app icon.
 
 ## License ##
 
@@ -26,5 +26,4 @@ Public domain. Have fun.
 [1]: http://mxcl.github.com/homebrew/
 [2]: http://luo.ma/
 [3]: http://rg3.github.com/youtube-dl/
-[4]: http://512pixels.net
 [5]: http://www.homestarrunner.com/trogdor.html
